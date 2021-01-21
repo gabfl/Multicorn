@@ -74,7 +74,7 @@ else
 	endif
 
 	ifeq (${PYTHON}, )
-		override PYTHON = python
+		override PYTHON = python3
 	endif
 
 
